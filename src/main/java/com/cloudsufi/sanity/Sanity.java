@@ -7,6 +7,6 @@ public class Sanity {
   }
 
   public static boolean isFalse() {
-    return true;
+    return false;
   }
 }
